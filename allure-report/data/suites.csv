@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","15264","TC002_addnewemployee","chromium","2026-10-15","passed","2026-10-15","regression test suite","testsuite1_Regression.spec.ts","",""
+"","14599","TC002_addnewemployee","chromium","2026-10-15","passed","2026-10-15","","TC002.spec.ts","",""
+"","14335","editemployee","chromium","2026-10-15","passed","2026-10-15","","TC003.spec.ts","",""
+"","2312","TC001_Login_Logout","chromium","2026-10-15","passed","2026-10-15","","TC001.spec.ts","",""
+"","2694","TC001_Login_Logout","chromium","2026-10-15","passed","2026-10-15","regression test suite","testsuite1_Regression.spec.ts","",""
+"","13716","deleteemployee","chromium","2026-10-15","passed","2026-10-15","","TC004.spec.ts","",""

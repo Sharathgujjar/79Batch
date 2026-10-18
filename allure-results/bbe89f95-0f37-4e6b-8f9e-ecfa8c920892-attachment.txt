@@ -1,0 +1,4 @@
+application opened
+login succesful
+updated succesfully
+logout succesful
