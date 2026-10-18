@@ -21,7 +21,7 @@ public middlename:string="Gujjar";
 public option:string="INDIANS";
 
 public searchoption:string="Emp. ID";
-public searchfor:string="12204";
+public searchfor:string="12233";
 
     //-----------------objects/elements-------------------*/
 
@@ -48,6 +48,6 @@ public button_save1:string="//input[@id='btnEditPers'][@value='Save']";
 public dropdown_searchby:string="//select[@name='loc_code']";
 public textbox_searchfor:string="//input[@name='loc_name'][@type='text']";
 public button_search:string="//input[@value='Search'][@type='button']['.plainbtn']"
-public checkbox_employee:string="//input[@type='checkbox'][@value='12204']";
+public checkbox_employee:string="//input[@type='checkbox'][@value='12233']";
 public button_delete:string="//input[@value='Delete'][@type='button']";
 }
